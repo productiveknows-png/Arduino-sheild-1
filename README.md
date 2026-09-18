@@ -1,2 +1,2 @@
 # Arduino-sheild-1
-simple arduino sheild that will help powerup the board and light up leds
+Simple Arduino shield that will help power up the board and light up led
